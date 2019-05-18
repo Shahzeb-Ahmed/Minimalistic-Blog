@@ -1,0 +1,40 @@
+body {
+	border: 20px solid rgb(189, 188, 188);
+	font-family: 'Source Sans Pro', sans-serif;
+	margin: 20px 200px;
+	padding-bottom: 20px;
+}
+
+.date {
+	text-transform: uppercase;
+	color: #3498db;
+	border: white;
+	margin: 20px 20px 0px 20px;
+	padding-bottom: 0px;
+	font-size: 12px;
+	letter-spacing: 2px;
+}
+
+h2 {
+	font-weight: 700;
+	color: #2c3e50;
+	margin-left: 20px;
+}
+
+p {
+	padding-top: 20px;
+	padding-right: 20px;
+	margin: 0px 20px;
+}
+
+.last {
+	border-bottom: solid 0.5px rgba(189, 188, 188, 0.7);
+	padding-bottom: 20px;
+	margin: 0px 20px;
+}
+
+div {
+	padding-left: 4px;
+	border-left: 4px solid rgb(189, 188, 188);
+	margin: 0 20px;
+}
